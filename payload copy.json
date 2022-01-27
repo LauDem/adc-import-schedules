@@ -1,0 +1,17 @@
+{
+    "ActionCode": "A",
+    "StoreNumber": 9313,
+    "ProductionAreaNumber": 265,
+    "Day": 1,
+    "StartTime": "06:40",
+    "Description": "Cake shop test day 1",
+    "Active": true,
+    "ShowInventoryOnHand": true,
+    "Items": [{
+        "ActionCode": "A",
+        "SKUNum": 105713314,
+        "DisplayOrder": 1,
+        "Minimum": 1,
+        "SafetyStock": 10
+    }]
+}

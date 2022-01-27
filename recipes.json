@@ -1,0 +1,2172 @@
+{
+    "102398726": {
+        "BusinessUnit": 0,
+        "RecipeId": 102398726,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "WHOLE GATEAU / CHOCOLATE FUDGE",
+        "Ingredients": [
+            {
+                "VendorItemID": "102388309",
+                "CostQuantity": "1200",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "102398734": {
+        "BusinessUnit": 0,
+        "RecipeId": 102398734,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "CARROT/WNUT WHOLE GATEAU",
+        "Ingredients": [
+            {
+                "VendorItemID": "102388317",
+                "CostQuantity": "1500",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "105320676": {
+        "BusinessUnit": 0,
+        "RecipeId": 105320676,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "M Half Carrot Walnut and Half Fudge Chocolate Cake",
+        "Ingredients": [
+            {
+                "VendorItemID": "102388309",
+                "CostQuantity": "600",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "102388317",
+                "CostQuantity": "749",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "105628494": {
+        "BusinessUnit": 0,
+        "RecipeId": 105628494,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS FRESH CREAM MERINGUES 2PK",
+        "Ingredients": [
+            {
+                "VendorItemID": "102385159",
+                "CostQuantity": "62.4",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108475411",
+                "CostQuantity": "25",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "111717637",
+                "CostQuantity": "50",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "105628620": {
+        "BusinessUnit": 0,
+        "RecipeId": 105628620,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS FRESH CREAM APPLE TURNOVERS 2PK",
+        "Ingredients": [
+            {
+                "VendorItemID": "106350666",
+                "CostQuantity": "180",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "111717637",
+                "CostQuantity": "120",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "109942641",
+                "CostQuantity": "4",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "105628646": {
+        "BusinessUnit": 0,
+        "RecipeId": 105628646,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS FRESH CREAM RASPBERRY TURNOVER 2PK",
+        "Ingredients": [
+            {
+                "VendorItemID": "106350691",
+                "CostQuantity": "180",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "111717637",
+                "CostQuantity": "120",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "109942641",
+                "CostQuantity": "4",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "105628718": {
+        "BusinessUnit": 0,
+        "RecipeId": 105628718,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS FRESH CREAM FRUITED SCONES 2PK",
+        "Ingredients": [
+            {
+                "VendorItemID": "107388949",
+                "CostQuantity": "288",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108781558",
+                "CostQuantity": "40",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "111717637",
+                "CostQuantity": "50",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "109942641",
+                "CostQuantity": "4",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "105629850": {
+        "BusinessUnit": 0,
+        "RecipeId": 105629850,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS FRESH CREAM STRAWBERRY SUNDAE",
+        "Ingredients": [
+            {
+                "VendorItemID": "108858228",
+                "CostQuantity": "55",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "105544127",
+                "CostQuantity": "30",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "105198164",
+                "CostQuantity": "75",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108850171",
+                "CostQuantity": "75",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "111717637",
+                "CostQuantity": "70",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "109707093",
+                "CostQuantity": "7.8",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "105629913": {
+        "BusinessUnit": 0,
+        "RecipeId": 105629913,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS FRESH CREAM VANILLA MUFFINS 2PK",
+        "Ingredients": [
+            {
+                "VendorItemID": "105544127",
+                "CostQuantity": "204",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108781558",
+                "CostQuantity": "20",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "111717637",
+                "CostQuantity": "50",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "109942641",
+                "CostQuantity": "4",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "105630025": {
+        "BusinessUnit": 0,
+        "RecipeId": 105630025,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS FRESH CREAM PROFITEROLE SUNDAE",
+        "Ingredients": [
+            {
+                "VendorItemID": "105526181",
+                "CostQuantity": "65",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "105009626",
+                "CostQuantity": "8000",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "102385175",
+                "CostQuantity": "25",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "111717637",
+                "CostQuantity": "90",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "106257744",
+                "CostQuantity": "3",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "105630068": {
+        "BusinessUnit": 0,
+        "RecipeId": 105630068,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS FRESH CREAM BLACK CHERRY SUNDAE",
+        "Ingredients": [
+            {
+                "VendorItemID": "105526181",
+                "CostQuantity": "65",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "105544098",
+                "CostQuantity": "35",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108787360",
+                "CostQuantity": "65",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "111717637",
+                "CostQuantity": "90",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "106257744",
+                "CostQuantity": "3",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "105630092": {
+        "BusinessUnit": 0,
+        "RecipeId": 105630092,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS THE BEST FRESH CREAM SCONE 2PK",
+        "Ingredients": [
+            {
+                "VendorItemID": "104739424",
+                "CostQuantity": "240",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108858228",
+                "CostQuantity": "40",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "111717637",
+                "CostQuantity": "60",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "105630236": {
+        "BusinessUnit": 0,
+        "RecipeId": 105630236,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS FRESH CREAM SPONGE",
+        "Ingredients": [
+            {
+                "VendorItemID": "108781558",
+                "CostQuantity": "75",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "111717637",
+                "CostQuantity": "100",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "109942641",
+                "CostQuantity": "3",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108222140",
+                "CostQuantity": "134",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "105630252": {
+        "BusinessUnit": 0,
+        "RecipeId": 105630252,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS FRESH CREAM LARGE SPONGE",
+        "Ingredients": [
+            {
+                "VendorItemID": "108222174",
+                "CostQuantity": "445",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "111717637",
+                "CostQuantity": "300",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108781558",
+                "CostQuantity": "150",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "109942641",
+                "CostQuantity": "6",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "105630279": {
+        "BusinessUnit": 0,
+        "RecipeId": 105630279,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS FRESH CREAM CHOCOLATE SPONGE",
+        "Ingredients": [
+            {
+                "VendorItemID": "105526181",
+                "CostQuantity": "50",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "111717637",
+                "CostQuantity": "100",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "109942641",
+                "CostQuantity": "3",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "10822094",
+                "CostQuantity": "134",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "105630308": {
+        "BusinessUnit": 0,
+        "RecipeId": 105630308,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS FRESH CREAM LARGE CHOCOLATE SPONGE",
+        "Ingredients": [
+            {
+                "VendorItemID": "108222060",
+                "CostQuantity": "455",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "105526181",
+                "CostQuantity": "100",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "111717637",
+                "CostQuantity": "300",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "109942641",
+                "CostQuantity": "6",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "105630324": {
+        "BusinessUnit": 0,
+        "RecipeId": 105630324,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS FRESH CREAM STRAWBERRY BUTTERFLY SPONGE",
+        "Ingredients": [
+            {
+                "VendorItemID": "108858228",
+                "CostQuantity": "60",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "111717637",
+                "CostQuantity": "120",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "109942641",
+                "CostQuantity": "4",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108850171",
+                "CostQuantity": "50",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108222140",
+                "CostQuantity": "134",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "105630412": {
+        "BusinessUnit": 0,
+        "RecipeId": 105630412,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS FRESH CREAM LARGE STRAWBERRY GATEAU",
+        "Ingredients": [
+            {
+                "VendorItemID": "108222174",
+                "CostQuantity": "445",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108858228",
+                "CostQuantity": "300",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "105198164",
+                "CostQuantity": "270",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "111717637",
+                "CostQuantity": "480",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "106256881",
+                "CostQuantity": "60",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108850171",
+                "CostQuantity": "75",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "105630447": {
+        "BusinessUnit": 0,
+        "RecipeId": 105630447,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS PROFITEROLE BOWL DESSERT",
+        "Ingredients": [
+            {
+                "VendorItemID": "102385175",
+                "CostQuantity": "40",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "105009626",
+                "CostQuantity": "16000",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "105526181",
+                "CostQuantity": "180",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "111717637",
+                "CostQuantity": "150",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "106257744",
+                "CostQuantity": "5",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "109942641",
+                "CostQuantity": "2",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "105630631": {
+        "BusinessUnit": 0,
+        "RecipeId": 105630631,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS MEDIUM STRAWBERRY FLAN",
+        "Ingredients": [
+            {
+                "VendorItemID": "104900222",
+                "CostQuantity": "145",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "105198164",
+                "CostQuantity": "200",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108850171",
+                "CostQuantity": "225",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "107379006",
+                "CostQuantity": "18",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "105697941": {
+        "BusinessUnit": 0,
+        "RecipeId": 105697941,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "Glazed Ring Doughnuts 4pk",
+        "Ingredients": [
+            {
+                "VendorItemID": "110396886",
+                "CostQuantity": "94",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "110105276",
+                "CostQuantity": "47.2",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "102385247",
+                "CostQuantity": "6",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "Water",
+                "CostQuantity": "70.4",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108171354",
+                "CostQuantity": "12",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "110788151",
+                "CostQuantity": "40",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "105713648": {
+        "BusinessUnit": 0,
+        "RecipeId": 105713648,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "M FRESH CREAM CHOCOLATE AND CHERRY MUFFINS 2PK",
+        "Ingredients": [
+            {
+                "VendorItemID": "105544098",
+                "CostQuantity": "204",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108787360",
+                "CostQuantity": "40",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "111717637",
+                "CostQuantity": "50",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "109942641",
+                "CostQuantity": "4",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "105819266": {
+        "BusinessUnit": 0,
+        "RecipeId": 105819266,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "M Fresh Cream Strawberry Flan (Scot)",
+        "Ingredients": [
+            {
+                "VendorItemID": "104900222",
+                "CostQuantity": "145",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "111717637",
+                "CostQuantity": "100",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108850171",
+                "CostQuantity": "130",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "107379006",
+                "CostQuantity": "45",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "105867487": {
+        "BusinessUnit": 0,
+        "RecipeId": 105867487,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "M FRESH CREAM BLACK FOREST GATEAU",
+        "Ingredients": [
+            {
+                "VendorItemID": "105526181",
+                "CostQuantity": "70",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "111717637",
+                "CostQuantity": "150",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108787360",
+                "CostQuantity": "110",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "106257744",
+                "CostQuantity": "25",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "10822094",
+                "CostQuantity": "134",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "106779278": {
+        "BusinessUnit": 0,
+        "RecipeId": 106779278,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS TOFFEE & APPLE CROWN 2 PACK",
+        "Ingredients": [
+            {
+                "VendorItemID": "110949663",
+                "CostQuantity": "186",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "108099532": {
+        "BusinessUnit": 0,
+        "RecipeId": 108099532,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS FRESH FRUIT TOPPED CHOCOLATE FUDGE CAKE",
+        "Ingredients": [
+            {
+                "VendorItemID": "102388309",
+                "CostQuantity": "1200",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108850171",
+                "CostQuantity": "125",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108585426",
+                "CostQuantity": "35",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108473192",
+                "CostQuantity": "81.25",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108472798",
+                "CostQuantity": "64",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108472966",
+                "CostQuantity": "32",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "109942641",
+                "CostQuantity": "5",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "108102210": {
+        "BusinessUnit": 0,
+        "RecipeId": 108102210,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS MANDARIN TRIFLE",
+        "Ingredients": [
+            {
+                "VendorItemID": "108112320",
+                "CostQuantity": "80",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "106225646",
+                "CostQuantity": "40",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "105544127",
+                "CostQuantity": "15",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "105198164",
+                "CostQuantity": "75",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "111717637",
+                "CostQuantity": "50",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "106256881",
+                "CostQuantity": "5",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "108102261": {
+        "BusinessUnit": 0,
+        "RecipeId": 108102261,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS RASPBERRY TRIFLE",
+        "Ingredients": [
+            {
+                "VendorItemID": "108112389",
+                "CostQuantity": "80",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108472798",
+                "CostQuantity": "20",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "105544127",
+                "CostQuantity": "15",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "105198164",
+                "CostQuantity": "75",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "111717637",
+                "CostQuantity": "50",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "106256881",
+                "CostQuantity": "5",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "108105998": {
+        "BusinessUnit": 0,
+        "RecipeId": 108105998,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS LEMON MERINGUE PIE",
+        "Ingredients": [
+            {
+                "VendorItemID": "108921952",
+                "CostQuantity": "1400",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "108405659": {
+        "BusinessUnit": 0,
+        "RecipeId": 108405659,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS FRESH CREAM PALMIER",
+        "Ingredients": [
+            {
+                "VendorItemID": "109481733",
+                "CostQuantity": "160",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108781558",
+                "CostQuantity": "20",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "111717637",
+                "CostQuantity": "60",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "109942641",
+                "CostQuantity": "2",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "108886691": {
+        "BusinessUnit": 0,
+        "RecipeId": 108886691,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS MARKET ST FRESH CREAM WHITE ICED FINGERS 2PK",
+        "Ingredients": [
+            {
+                "VendorItemID": "108881701",
+                "CostQuantity": "4",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108781558",
+                "CostQuantity": "30",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "111717637",
+                "CostQuantity": "60",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "108887037": {
+        "BusinessUnit": 0,
+        "RecipeId": 108887037,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS MARKET ST LARGE RASPBERRY TRIFLE",
+        "Ingredients": [
+            {
+                "VendorItemID": "108472798",
+                "CostQuantity": "48",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "105544127",
+                "CostQuantity": "102",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "105198164",
+                "CostQuantity": "230",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "111717637",
+                "CostQuantity": "120",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "106256881",
+                "CostQuantity": "10",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "110020133",
+                "CostQuantity": "185",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "108949824": {
+        "BusinessUnit": 0,
+        "RecipeId": 108949824,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS MARKET ST CARROT & WALNUT CAKE SLICE",
+        "Ingredients": [
+            {
+                "VendorItemID": "102388317",
+                "CostQuantity": "107",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "108949859": {
+        "BusinessUnit": 0,
+        "RecipeId": 108949859,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS MARKET ST CHOCOLATE FUDGE CAKE SLICE",
+        "Ingredients": [
+            {
+                "VendorItemID": "102388309",
+                "CostQuantity": "100",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "109223128": {
+        "BusinessUnit": 0,
+        "RecipeId": 109223128,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS 24 MINI CAKE PLATTER",
+        "Ingredients": [
+            {
+                "VendorItemID": "108222060",
+                "CostQuantity": "227.5",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "105526181",
+                "CostQuantity": "40",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108222174",
+                "CostQuantity": "445",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108781558",
+                "CostQuantity": "40",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "111300268",
+                "CostQuantity": "40",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "111717637",
+                "CostQuantity": "144",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "109942641",
+                "CostQuantity": "24",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "109349257": {
+        "BusinessUnit": 0,
+        "RecipeId": 109349257,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS LEMON MERINGUE TART",
+        "Ingredients": [
+            {
+                "VendorItemID": "109466736",
+                "CostQuantity": "113",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "109349388": {
+        "BusinessUnit": 0,
+        "RecipeId": 109349388,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS PEAR & ALMOND TART",
+        "Ingredients": [
+            {
+                "VendorItemID": "109466824",
+                "CostQuantity": "131",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "109357871": {
+        "BusinessUnit": 0,
+        "RecipeId": 109357871,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS BANOFFEE & FRESH CREAM WAFFLE",
+        "Ingredients": [
+            {
+                "VendorItemID": "109100742",
+                "CostQuantity": "90",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "105198164",
+                "CostQuantity": "70",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108491948",
+                "CostQuantity": "32",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "111717637",
+                "CostQuantity": "25",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "102385175",
+                "CostQuantity": "20",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "109368343": {
+        "BusinessUnit": 0,
+        "RecipeId": 109368343,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS MIXED FRUIT TART",
+        "Ingredients": [
+            {
+                "VendorItemID": "111717637",
+                "CostQuantity": "21.66666667",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "105198164",
+                "CostQuantity": "43.33333333",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "104900193",
+                "CostQuantity": "48",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108850171",
+                "CostQuantity": "50",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "106225646",
+                "CostQuantity": "32",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108409721",
+                "CostQuantity": "16",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108472966",
+                "CostQuantity": "6",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "107378986",
+                "CostQuantity": "6",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "109368482": {
+        "BusinessUnit": 0,
+        "RecipeId": 109368482,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS STRAWBERRY TART",
+        "Ingredients": [
+            {
+                "VendorItemID": "111717637",
+                "CostQuantity": "21.66666667",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "105198164",
+                "CostQuantity": "43.33333333",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "104900193",
+                "CostQuantity": "48",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108850171",
+                "CostQuantity": "100",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "107379006",
+                "CostQuantity": "6",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "109368589": {
+        "BusinessUnit": 0,
+        "RecipeId": 109368589,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS BANOFFEE TART",
+        "Ingredients": [
+            {
+                "VendorItemID": "104900193",
+                "CostQuantity": "48",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "105198164",
+                "CostQuantity": "30",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108491948",
+                "CostQuantity": "24",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "111717637",
+                "CostQuantity": "30",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "102385175",
+                "CostQuantity": "20",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "106256881",
+                "CostQuantity": "2",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "109726201": {
+        "BusinessUnit": 0,
+        "RecipeId": 109726201,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS STRAWBERRY & CREAM MERINGUES 2PK",
+        "Ingredients": [
+            {
+                "VendorItemID": "109707093",
+                "CostQuantity": "62.4",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "111717637",
+                "CostQuantity": "50",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108850171",
+                "CostQuantity": "25",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "109758341": {
+        "BusinessUnit": 0,
+        "RecipeId": 109758341,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS MANGO TRIFLE",
+        "Ingredients": [
+            {
+                "VendorItemID": "109829269",
+                "CostQuantity": "80",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "105544127",
+                "CostQuantity": "15",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "105198164",
+                "CostQuantity": "75",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "111717637",
+                "CostQuantity": "50",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108409721",
+                "CostQuantity": "4",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108409596",
+                "CostQuantity": "15",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "109905313": {
+        "BusinessUnit": 0,
+        "RecipeId": 109905313,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS FRUIT TART PLATTER",
+        "Ingredients": [
+            {
+                "VendorItemID": "104900193",
+                "CostQuantity": "244.735426",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108850171",
+                "CostQuantity": "404.9327354",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "107379006",
+                "CostQuantity": "18",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "111717637",
+                "CostQuantity": "110.470852",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "105198164",
+                "CostQuantity": "220.941704",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "106225646",
+                "CostQuantity": "67.15695067",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108409721",
+                "CostQuantity": "33.57847534",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108472966",
+                "CostQuantity": "12.59192825",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "107378986",
+                "CostQuantity": "12.59192825",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "109905356": {
+        "BusinessUnit": 0,
+        "RecipeId": 109905356,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS THE BEST SCONE PLATTER",
+        "Ingredients": [
+            {
+                "VendorItemID": "104739424",
+                "CostQuantity": "1080",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108858228",
+                "CostQuantity": "180",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "111717637",
+                "CostQuantity": "270",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "111040558": {
+        "BusinessUnit": 0,
+        "RecipeId": 111040558,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS ANGEL SPARKLE CAKE",
+        "Ingredients": [
+            {
+                "VendorItemID": "111026297",
+                "CostQuantity": "135",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "111040574": {
+        "BusinessUnit": 0,
+        "RecipeId": 111040574,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS CHOCOLATE ORANGE CAKE",
+        "Ingredients": [
+            {
+                "VendorItemID": "111026326",
+                "CostQuantity": "135",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "111040591": {
+        "BusinessUnit": 0,
+        "RecipeId": 111040591,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS LEMON & POPPYSEED CAKE",
+        "Ingredients": [
+            {
+                "VendorItemID": "111026351",
+                "CostQuantity": "135",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "111207565": {
+        "BusinessUnit": 0,
+        "RecipeId": 111207565,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS BAKEWELL TARTLET",
+        "Ingredients": [
+            {
+                "VendorItemID": "111092403",
+                "CostQuantity": "90",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "111393601": {
+        "BusinessUnit": 0,
+        "RecipeId": 111393601,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS FRESH CREAM BALL DOUGHNUTS 2 PACK",
+        "Ingredients": [
+            {
+                "VendorItemID": "110396886",
+                "CostQuantity": "47",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "110105276",
+                "CostQuantity": "23.6",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "102385247",
+                "CostQuantity": "3",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "Water",
+                "CostQuantity": "35.2",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108171354",
+                "CostQuantity": "6",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108781558",
+                "CostQuantity": "30",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "111717637",
+                "CostQuantity": "60",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "109942641",
+                "CostQuantity": "2",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "111806251": {
+        "BusinessUnit": 0,
+        "RecipeId": 111806251,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS LOADED BROWNIE DOUGHNUT",
+        "Ingredients": [
+            {
+                "VendorItemID": "110396886",
+                "CostQuantity": "23.5",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "110105276",
+                "CostQuantity": "11.8",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "102385247",
+                "CostQuantity": "1.5",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "Water",
+                "CostQuantity": "17.6",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108171354",
+                "CostQuantity": "3",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108415806",
+                "CostQuantity": "15",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "110151096",
+                "CostQuantity": "36",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "111806277": {
+        "BusinessUnit": 0,
+        "RecipeId": 111806277,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS SIMPLY GLAZED DOUGHNUT",
+        "Ingredients": [
+            {
+                "VendorItemID": "110396886",
+                "CostQuantity": "23.5",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "110105276",
+                "CostQuantity": "11.8",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "102385247",
+                "CostQuantity": "1.5",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "Water",
+                "CostQuantity": "17.6",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108171354",
+                "CostQuantity": "3",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "110788151",
+                "CostQuantity": "10",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "111806293": {
+        "BusinessUnit": 0,
+        "RecipeId": 111806293,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS IT'S POPPIN' TOFFEE DOUGHNUT",
+        "Ingredients": [
+            {
+                "VendorItemID": "110396886",
+                "CostQuantity": "23.5",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "110105276",
+                "CostQuantity": "11.8",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "102385247",
+                "CostQuantity": "1.5",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "Water",
+                "CostQuantity": "17.6",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108171354",
+                "CostQuantity": "3",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "111736791",
+                "CostQuantity": "20",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108527621",
+                "CostQuantity": "15",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "110949532",
+                "CostQuantity": "8",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "111806314": {
+        "BusinessUnit": 0,
+        "RecipeId": 111806314,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS WHEN LIFE GIVES YOU LEMONS DOUGHNUT",
+        "Ingredients": [
+            {
+                "VendorItemID": "110396886",
+                "CostQuantity": "23.5",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "110105276",
+                "CostQuantity": "11.8",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "102385247",
+                "CostQuantity": "1.5",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "Water",
+                "CostQuantity": "17.6",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108171354",
+                "CostQuantity": "3",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "111845081",
+                "CostQuantity": "20",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108415865",
+                "CostQuantity": "8",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "110459461",
+                "CostQuantity": "15",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "111806331": {
+        "BusinessUnit": 0,
+        "RecipeId": 111806331,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS SWEET AS CANDY DOUGHNUT",
+        "Ingredients": [
+            {
+                "VendorItemID": "110396886",
+                "CostQuantity": "23.5",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "110105276",
+                "CostQuantity": "11.8",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "102385247",
+                "CostQuantity": "1.5",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "Water",
+                "CostQuantity": "17.6",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108171354",
+                "CostQuantity": "3",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108415865",
+                "CostQuantity": "15",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "111931123",
+                "CostQuantity": "29.7",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "111813696": {
+        "BusinessUnit": 0,
+        "RecipeId": 111813696,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS STRAWBERRIES & CREAM WAFFLE BOWL",
+        "Ingredients": [
+            {
+                "VendorItemID": "108858228",
+                "CostQuantity": "125",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "111717637",
+                "CostQuantity": "125",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "109100742",
+                "CostQuantity": "60",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108475411",
+                "CostQuantity": "75",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "109707093",
+                "CostQuantity": "15.6",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "107379006",
+                "CostQuantity": "50",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "111813725": {
+        "BusinessUnit": 0,
+        "RecipeId": 111813725,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS LOADED CHOCOLATE TOFFEE POPCORN CUPCAKES 2 PACK",
+        "Ingredients": [
+            {
+                "VendorItemID": "111993957",
+                "CostQuantity": "74",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "111717637",
+                "CostQuantity": "70",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "111174628",
+                "CostQuantity": "24",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "102385175",
+                "CostQuantity": "10",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "111813741": {
+        "BusinessUnit": 0,
+        "RecipeId": 111813741,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS LOADED STRAWBERRY SHORTCAKE CUPCAKES 2 PACK",
+        "Ingredients": [
+            {
+                "VendorItemID": "111993957",
+                "CostQuantity": "74",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "111717637",
+                "CostQuantity": "70",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108850171",
+                "CostQuantity": "25",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "110151150",
+                "CostQuantity": "30",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "107379006",
+                "CostQuantity": "10",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "111857496": {
+        "BusinessUnit": 0,
+        "RecipeId": 111857496,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS SPRINKLY THE BEST DOUGHNUT",
+        "Ingredients": [
+            {
+                "VendorItemID": "110396886",
+                "CostQuantity": "23.5",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "110105276",
+                "CostQuantity": "11.8",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "102385247",
+                "CostQuantity": "1.5",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "Water",
+                "CostQuantity": "17.6",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108171354",
+                "CostQuantity": "3",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "111736820",
+                "CostQuantity": "15",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "109270291",
+                "CostQuantity": "10",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "111878086": {
+        "BusinessUnit": 0,
+        "RecipeId": 111878086,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS VANILLA CHEESECAKE",
+        "Ingredients": [
+            {
+                "VendorItemID": "111776240",
+                "CostQuantity": "500",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "111964902": {
+        "BusinessUnit": 0,
+        "RecipeId": 111964902,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS MIX N MATCH DOUGHNUTS 12 PACK",
+        "Ingredients": [
+            {
+                "VendorItemID": "107525270",
+                "CostQuantity": "15",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "111736820",
+                "CostQuantity": "35",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108415865",
+                "CostQuantity": "31",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "110396886",
+                "CostQuantity": "164.5",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "110105276",
+                "CostQuantity": "82.6",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "102385247",
+                "CostQuantity": "10.5",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "Water",
+                "CostQuantity": "123.2",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108171354",
+                "CostQuantity": "21",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "111736791",
+                "CostQuantity": "20",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108527621",
+                "CostQuantity": "15",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "110949532",
+                "CostQuantity": "8",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "111845081",
+                "CostQuantity": "20",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "110459461",
+                "CostQuantity": "15",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108415806",
+                "CostQuantity": "15",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "110151096",
+                "CostQuantity": "36",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "109270291",
+                "CostQuantity": "10",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "111931123",
+                "CostQuantity": "29.7",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "110788151",
+                "CostQuantity": "10",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "111967425": {
+        "BusinessUnit": 0,
+        "RecipeId": 111967425,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS MIX N MATCH DOUGHNUTS 3 PACK",
+        "Ingredients": [
+            {
+                "VendorItemID": "107525270",
+                "CostQuantity": "7.5",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "111736820",
+                "CostQuantity": "17.5",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108415865",
+                "CostQuantity": "15.5",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "110396886",
+                "CostQuantity": "70.5",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "110105276",
+                "CostQuantity": "35.4",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "102385247",
+                "CostQuantity": "4.5",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "Water",
+                "CostQuantity": "52.8",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108171354",
+                "CostQuantity": "9",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "111736791",
+                "CostQuantity": "10",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108527621",
+                "CostQuantity": "7.5",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "110949532",
+                "CostQuantity": "4",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "111845081",
+                "CostQuantity": "10",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "110459461",
+                "CostQuantity": "7.5",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108415806",
+                "CostQuantity": "7.5",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "110151096",
+                "CostQuantity": "18",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "109270291",
+                "CostQuantity": "5",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "111931123",
+                "CostQuantity": "14.85",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "112028219": {
+        "BusinessUnit": 0,
+        "RecipeId": 112028219,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS CUT THE CUSTARD",
+        "Ingredients": [
+            {
+                "VendorItemID": "110396886",
+                "CostQuantity": "23.5",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "110105276",
+                "CostQuantity": "11.8",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "102385247",
+                "CostQuantity": "1.5",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "Water",
+                "CostQuantity": "17.6",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108171354",
+                "CostQuantity": "3",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "107525270",
+                "CostQuantity": "15",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "111736820",
+                "CostQuantity": "20",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108415865",
+                "CostQuantity": "8",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "112084333": {
+        "BusinessUnit": 0,
+        "RecipeId": 112084333,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS 12 ICED DOUGHNUT SELECTION",
+        "Ingredients": [
+            {
+                "VendorItemID": "111845081",
+                "CostQuantity": "60",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108415865",
+                "CostQuantity": "69",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "110459461",
+                "CostQuantity": "45",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "110396886",
+                "CostQuantity": "282",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "110105276",
+                "CostQuantity": "141.6",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "102385247",
+                "CostQuantity": "18",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "Water",
+                "CostQuantity": "211.2",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108171354",
+                "CostQuantity": "36",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108415806",
+                "CostQuantity": "45",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "110151096",
+                "CostQuantity": "108",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "111931123",
+                "CostQuantity": "89.1",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "110788151",
+                "CostQuantity": "30",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    },
+    "112121835": {
+        "BusinessUnit": 0,
+        "RecipeId": 112121835,
+        "DepartmentNumber": 265,
+        "RecipeDescription": "MORRISONS WINTERBERRY CHEESECAKE",
+        "Ingredients": [
+            {
+                "VendorItemID": "111776240",
+                "CostQuantity": "500",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108475411",
+                "CostQuantity": "80",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "108473192",
+                "CostQuantity": "40",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "103863790",
+                "CostQuantity": "45",
+                "UnitOfMeasure": "Grams"
+            },
+            {
+                "VendorItemID": "107378986",
+                "CostQuantity": "15",
+                "UnitOfMeasure": "Grams"
+            }
+        ],
+        "ProductionItems": []
+    }
+}
